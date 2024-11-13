@@ -1,4 +1,5 @@
-%% kmeans centroid evnts
+% 3. compare cluster centroids, find optimal centroid and align, plot
+% clusters
 clear all; close all; clc;
 
 load test_data.mat;
